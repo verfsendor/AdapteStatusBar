@@ -9,8 +9,9 @@
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#f4f608"
+        android:background="#44f902"
         android:text="Hello World!"
         android:gravity="center"
         android:textColor="#333333"/>
+
 </LinearLayout>
